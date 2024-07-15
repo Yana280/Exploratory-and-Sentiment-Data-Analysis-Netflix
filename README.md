@@ -1,1 +1,1 @@
-# Exploratory-and-Sentiment-Data-Analysis-Netflix
+# Exploratory-Data-Analysis-And Sentiment Analysis of Netflix dataset
